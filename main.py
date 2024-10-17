@@ -90,7 +90,7 @@ async def help_command(update: Update, context):
 # Fungsi utama untuk menjalankan bot
 def main():
     # Masukkan token bot Anda di sini
-    TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+    TOKEN = "7567580368:AAECOmANp17o-jcGj2CeWU1Zef_OPXBHjM8"
 
     # Buat aplikasi bot
     app = ApplicationBuilder().token(TOKEN).build()
